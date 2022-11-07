@@ -4,5 +4,4 @@
 pip install zipfile 
 
 ### 工具用法
-python zip2.py
-![image](https://user-images.githubusercontent.com/78697358/200308819-a4207c94-ffff-407c-9ea9-55ce67d3c1ee.png)
+![image](https://user-images.githubusercontent.com/78697358/200309300-fc1bdfbe-f22d-4766-8aed-89211a04b907.png)
